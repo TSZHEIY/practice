@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="记事本/记事本.vcxproj" Id="3931784b-75eb-48cc-b29f-67c767566b6b" />
+</Solution>
